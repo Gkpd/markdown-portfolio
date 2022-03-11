@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of This is not an octocat](https://octodex.github.com/notocat/)
